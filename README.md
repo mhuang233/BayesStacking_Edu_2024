@@ -1,1 +1,1 @@
-# The Comparison between BHS and BS
+# A Comparison between BHS and BS
